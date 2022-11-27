@@ -1,5 +1,5 @@
 {
-  "name": "Chika-Md",
+  "name": "Winky Bot",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "riy.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Riy.",
+  "author": "Wyn.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
